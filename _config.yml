@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Liding Zhang"
+description              : "Research Assistant | Doctoral Candidate of TUM School of Computation, Information and Technology (CIT)"
+repository               : "github.com/liding-zhang"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,31 +21,31 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  name             : "Liding Zhang"
+  avatar           : "images/rectangle.jpg"
+  bio              : "Techinical University of Munich (TUM)"
+  location         : "Munich, Germany"
+  employer         : #"Research Assistant"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=AMFFKhkAAAAJ&hl=en"
+  email            : "lidingzhangbruce@foxmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Liding-Zhang-2/publications"
+  uri              : "https://www.ce.cit.tum.de/air/people/liding-zhang-msc/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : #"Liding-Zhang?tab=repositories"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "https://www.linkedin.com/in/liding-zhang-388882228/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0007-0119-706X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

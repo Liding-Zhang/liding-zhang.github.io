@@ -6,17 +6,20 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Projects"
+    url: "/#-selected-projects"
+
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-selected-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Services"
+    url: "/#-community-services"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "CV"
+    url: "/files/Liding_Zhang_CV_EN.pdf"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
