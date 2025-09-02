@@ -4,18 +4,28 @@
   <img src="images/one_page_rep.jpg" width="100%" alt="Publication preview"/>
 
   <!-- 悬浮在图片上的 PDF 链接 -->
-  <a href="/files/Liding_Zhang_Publication_List.pdf" target="_blank"
-     style="position: absolute; top: 18px; left: 0px; 
-            background: rgba(230,245,244,255); 
-            padding: 6px 12px; 
-            border-radius: 8px; 
-            font-size: 16px; 
-            text-decoration: none; 
-            color: rgba(34,75,141,255); 
+  <a href="/files/Liding_Zhang_Publication_List.pdf" target="_blank" class="pdf-link"
+     style="position: absolute; top: 1%; left: 0;
+            background: rgba(230,245,244,0.9);
+            padding: 0.4em 0.8em;
+            border-radius: 6px;
+            font-size: 0.9em;
+            text-decoration: none;
+            color: rgba(34,75,141,255);
             font-weight: bold;">
     📄 <u>Full list (PDF)</u>
   </a>
 </div>
+
+<style>
+/* 手机屏幕适配 */
+@media (max-width: 768px) {
+  .pdf-link {
+    font-size: 0.7em;        /* 更小字体 */
+    padding: 0.25em 0.5em;   /* 更小按钮 */
+  }
+}
+</style>
 
 
 ## Multi-Source Subset Optimization
