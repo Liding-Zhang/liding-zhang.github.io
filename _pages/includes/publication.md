@@ -1,11 +1,21 @@
-# 📝 Selected Publications
+# 📝 Selected Publications 
 
-<!-- <p align="center">A Modern and Responsive Academic Personal Homepage</p> -->
-<p>
-    <br>
-    <img src="images/one_page_rep.jpg" width="100%"/>
-    <br>
-</p>
+<div style="position: relative; display: inline-block; width: 100%;">
+  <img src="images/one_page_rep.jpg" width="100%" alt="Publication preview"/>
+
+  <!-- 悬浮在图片上的 PDF 链接 -->
+  <a href="/files/Liding_Zhang_Publication_List.pdf" target="_blank"
+     style="position: absolute; top: 18px; left: 0px; 
+            background: rgba(230,245,244,255); 
+            padding: 6px 12px; 
+            border-radius: 8px; 
+            font-size: 16px; 
+            text-decoration: none; 
+            color: rgba(34,75,141,255); 
+            font-weight: bold;">
+    📄 <u>Full list (PDF)</u>
+  </a>
+</div>
 
 
 ## Multi-Source Subset Optimization
@@ -30,7 +40,7 @@
 [[video](https://youtu.be/obftvS0a41M)] 
 
 
-4. **Motion planning for robotics: A review for sampling-based planners** 
+4. **Motion Planning for Robotics: A Review for Sampling-based Planners** 
 <br /><u>Liding Zhang</u>, Kuanqi Cai, Zewei Sun, Zhenshan Bing, Chaoqun Wang, Luis Figueredo, Sami Haddadin, Alois Knoll
 <br /> **BIRoB 2025**
 [[arXiv](https://arxiv.org/pdf/2410.19414)] 
@@ -47,7 +57,7 @@
 [[video](https://youtu.be/nL1BMHpMR7c)] 
 [[doi](https://doi.org/10.1109/TMECH.2025.3570573)]
 
-2. **Genetic Informed Trees (GIT*): Path planning via reinforced genetic programming heuristics** 
+2. **Genetic Informed Trees (GIT*): Path Planning via Reinforced Genetic Programming Heuristics** 
 <br /><u>Liding Zhang</u>, Kuanqi Cai, Zhenshan Bing, Chaoqun Wang, Alois Knoll
 <br /> **BIRoB 2025**
 [[arXiv](https://arxiv.org/pdf/2508.20871)] 

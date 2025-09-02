@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "CV_EN"
+    url: "/files/Liding_Zhang_CV_EN.pdf"
+
+  - title: "CV_中文"
+    url: "/files/Liding_Zhang_CV_CN.pdf"
+
+  # - title: "About Me"
+  #   url: "/#about-me"
 
   - title: "News"
     url: "/#-news"
@@ -15,8 +21,6 @@ main:
   - title: "Services"
     url: "/#-community-services"
 
-  - title: "CV"
-    url: "/files/Liding_Zhang_CV_EN.pdf"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
