@@ -29,7 +29,7 @@
 </div>
 
 <!-- llm darko -->
-<div class='paper-box'><div class='paper-box-image'><a href="https://drapandiger.github.io/GODHS/"><img src='files/llm_darko.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><a href="https://drapandiger.github.io/GODHS/"><img src='files/gif/llm_darko.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
 <strong style="font-size: 1.1em;">**Language-Enhanced Mobile Manipulation for Efficient Object Search in Indoor Environments**</strong>
