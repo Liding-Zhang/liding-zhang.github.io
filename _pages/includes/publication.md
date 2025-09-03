@@ -79,6 +79,7 @@
 <br /> **ICRA 2025**
 [[arXiv](https://arxiv.org/pdf/2508.19168)] 
 [[video](https://youtu.be/2SX6QT2NOek)] 
+[[doi](https://doi.org/10.1109/ICRA55743.2025.11127725)]
 
 4. **Elliptical K-Nearest Neighbors -- Path Optimization via Coulomb's Law and Invalid Vertices in C-space Obstacles** 
 <br /><u>Liding Zhang</u>, Zhenshan Bing, Yu Zhang, Kuanqi Cai, Lingyun Chen, Fan Wu, Sami Haddadin, Alois Knoll
