@@ -39,7 +39,7 @@
 
 2. **Tree-Based Grafting Approach for Bidirectional Motion Planning with Local Subsets Optimization** 
 <br /><u>Liding Zhang</u>, Yao Ling, Zhenshan Bing, Fan Wu, Sami Haddadin, Alois Knoll
-<br /> **IEEE R-AL 2025 (also presented at IROS 2025)**
+<br /> **IEEE RA-L 2025 (also presented at IROS 2025)**
 [[arXiv](https://arxiv.org/pdf/2508.19776)] 
 [[video](https://youtu.be/3mfCRL5SQIU)] 
 [[doi](https://doi.org/10.1109/LRA.2025.3562369)]
@@ -94,7 +94,7 @@
 
 1. **APT*: Asymptotically Optimal Motion Planning via Adaptively Prolated Elliptical R-Nearest Neighbors** 
 <br /><u>Liding Zhang</u>, Sicheng Wang, Kuanqi Cai, Zhenshan Bing, Fan Wu, Chaoqun Wang, Sami Haddadin, Alois Knoll
-<br /> **IEEE R-AL 2025**
+<br /> **IEEE RA-L 2025**
 [[arXiv](https://arxiv.org/pdf/2508.19790)] 
 [[video](https://youtu.be/gCcUr8LiEw4)] 
 [[doi](https://doi.org/10.1109/LRA.2025.3598616)]
