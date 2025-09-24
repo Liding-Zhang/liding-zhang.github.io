@@ -2,8 +2,8 @@
 
 **Chair**: 
 
-- 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Teaser Session of Robot Motion Planning IV, ADNEC in Abu Dhabi, UAE.
-- 2025 IEEE International Conference on Cyborg and Bionic Systems (CBS), Teaser Session of Motion Planning and Control T2, Empark Grand in Beijing, China.
+- 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Teaser Session of <u>Robot Motion Planning IV</u>, ADNEC in Abu Dhabi, UAE.
+- 2025 IEEE International Conference on Cyborg and Bionic Systems (CBS), Teaser Session of <u>Motion Planning and Control T2</u>, Empark Grand in Beijing, China.
 
 **Reviewer**:
 
