@@ -71,6 +71,8 @@
 
 <u>Liding Zhang</u>, Zeqi Li, Kuanqi Cai, Qian Huang, Zhenshan Bing, Alois Knoll
 
+2025 IEEE IROS Workshop on Edge AI for Robotics [[openReview](https://openreview.net/forum?id=3vKbeZbleY)]
+
 2025 IEEE International Conference on Cyborg and Bionic Systems (CBS 2025)
 
 [[arXiv](https://arxiv.org/pdf/2508.20899)] [[video](https://www.youtube.com/watch?v=iU6U3HwSC9U&feature=youtu.be)] [[site](https://drapandiger.github.io/GODHS/)]
