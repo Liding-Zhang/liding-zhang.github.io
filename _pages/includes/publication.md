@@ -46,13 +46,14 @@
 
 3. **Multi-Sets Trees (MST*): Accelerated Asymptotically Optimal Motion Planning Optimization Informed by Multiple Domain Subsets** 
 <br /><u>Liding Zhang</u>, Sicheng Wang, Kuanqi Cai, Zhenshan Bing, Alois Knoll
-<br /> **IROS 2025 Accepted**
+<br /> **IEEE/RSJ IROS 2025**
 [[video](https://youtu.be/obftvS0a41M)] 
+[[doi](https://doi.org/10.1109/IROS60139.2025.11246371)]
 
 
 4. **Motion Planning for Robotics: A Review for Sampling-based Planners** 
 <br /><u>Liding Zhang</u>, Kuanqi Cai, Zewei Sun, Zhenshan Bing, Chaoqun Wang, Luis Figueredo, Sami Haddadin, Alois Knoll
-<br /> **BIRoB 2025**
+<br /> **Elsevier BIRoB 2025**
 [[arXiv](https://arxiv.org/pdf/2410.19414)] 
 [[doi](https://doi.org/10.1016/j.birob.2024.100207)]
 
@@ -69,21 +70,21 @@
 
 2. **Genetic Informed Trees (GIT*): Path Planning via Reinforced Genetic Programming Heuristics** 
 <br /><u>Liding Zhang</u>, Kuanqi Cai, Zhenshan Bing, Chaoqun Wang, Alois Knoll
-<br /> **BIRoB 2025**
+<br /> **Elsevier BIRoB 2025**
 [[arXiv](https://arxiv.org/pdf/2508.20871)] 
 [[video](https://youtu.be/URjXbc_BiYg)] 
 [[doi](https://doi.org/10.1016/j.birob.2025.100237)]
 
 3. **Direction Informed Trees (DIT*): Optimal Path Planning via Direction Filter and Direction Cost Heuristic** 
 <br /><u>Liding Zhang</u>, Kejia Chen, Kuanqi Cai, Yu Zhang, Yixuan Dang, Yansong Wu, Zhenshan Bing, Fan Wu, Sami Haddadin, Alois Knoll
-<br /> **ICRA 2025**
+<br /> **IEEE ICRA 2025**
 [[arXiv](https://arxiv.org/pdf/2508.19168)] 
 [[video](https://youtu.be/2SX6QT2NOek)] 
 [[doi](https://doi.org/10.1109/ICRA55743.2025.11127725)]
 
 4. **Elliptical K-Nearest Neighbors -- Path Optimization via Coulomb's Law and Invalid Vertices in C-space Obstacles** 
 <br /><u>Liding Zhang</u>, Zhenshan Bing, Yu Zhang, Kuanqi Cai, Lingyun Chen, Fan Wu, Sami Haddadin, Alois Knoll
-<br /> **IROS 2024**
+<br /> **IEEE/RSJ IROS 2024**
 [[arXiv](https://arxiv.org/pdf/2508.19771)] 
 [[video](https://youtu.be/s7CHNLbVo6k)] 
 [[doi](https://doi.org/10.1109/IROS58592.2024.10802280)]
@@ -101,8 +102,9 @@
 
 2. **CIT*: Context-Based Biased Batch-Sampling for Almost-Surely Asymptotically Optimal Motion Planning** 
 <br /><u>Liding Zhang</u>, Yankun Wei, Kuanqi Cai, Zhenshan Bing, Yuan Meng, Fan Wu, Sami Haddadin, Alois Knoll
-<br /> **IROS 2025 Accepted**
+<br /> **IEEE/RSJ IROS 2025**
 [[video](https://youtu.be/SG2cy9WmjD0)] 
+[[doi](https://doi.org/10.1109/IROS60139.2025.11246858)]
 
 
 31. **Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning** 
@@ -113,7 +115,7 @@
 
 4. **Flexible Informed Trees (FIT*): Adaptive Batch-Size Approach in Informed Sampling-Based Path Planning** 
 <br /><u>Liding Zhang</u>, Zhenshan Bing, Kejia Chen, Lingyun Chen, Kuanqi Cai, Yu Zhang, Fan Wu, Peter Krumbholz, Zhilin Yuan, Sami Haddadin, Alois Knoll
-<br /> **IROS 2024**
+<br /> **IEEE/RSJ IROS 2024**
 [[arXiv](https://arxiv.org/pdf/2310.12828)] 
 [[video](https://youtu.be/N9HdU56v1nU)] 
 [[doi](https://doi.org/10.1109/IROS58592.2024.10802466)]
