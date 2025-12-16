@@ -75,6 +75,6 @@
 
 2025 IEEE International Conference on Cyborg and Bionic Systems (CBS 2025)
 
-[[arXiv](https://arxiv.org/pdf/2508.20899)] [[video](https://www.youtube.com/watch?v=iU6U3HwSC9U&feature=youtu.be)] [[site](https://drapandiger.github.io/GODHS/)]
+[[arXiv](https://arxiv.org/pdf/2508.20899)] [[doi](https://doi.org/10.1109/CBS65871.2025.11267741)] [[video](https://www.youtube.com/watch?v=iU6U3HwSC9U&feature=youtu.be)] [[site](https://drapandiger.github.io/GODHS/)]
 </div>
 </div>

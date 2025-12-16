@@ -109,9 +109,10 @@
 
 31. **Deep Fuzzy Optimization for Batch-Size and Nearest Neighbors in Optimal Robot Motion Planning** 
 <br /><u>Liding Zhang</u>, Qiyang Zong, Yu Zhang, Zhenshan Bing, Alois Knoll
-<br /> **IEEE CBS 2025 Accepted**
+<br /> **IEEE CBS 2025**
 [[arXiv](https://arxiv.org/pdf/2508.20884)] 
 [[video](https://youtu.be/NrNs9zebWWk.)] 
+[[doi](https://doi.org/10.1109/CBS65871.2025.11267553)]
 
 4. **Flexible Informed Trees (FIT*): Adaptive Batch-Size Approach in Informed Sampling-Based Path Planning** 
 <br /><u>Liding Zhang</u>, Zhenshan Bing, Kejia Chen, Lingyun Chen, Kuanqi Cai, Yu Zhang, Fan Wu, Peter Krumbholz, Zhilin Yuan, Sami Haddadin, Alois Knoll
