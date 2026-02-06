@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026.02*: 📃📃 <b>"Call on papers - Special Issue"</b>, Springer Nature - Journal of Intelligent & Robotic Systems on Topic <u>
+- *2026.02*: 📃📃 <b>"Call for Papers - Special Issue"</b>, Springer Nature - Journal of Intelligent & Robotic Systems on Topic <u>
 "Robotic Autonomy in Uncertain and Dynamic Environments"</u> [[FLYER](/files/JINT_Flyer.pdf)].
 - *2026.01*: 💥💥 <b>"Best Paper Award"</b>, 2025 Eswell - [Best Paper of the Year](/files/BIROB_BestPaper.pdf) Awarded by Prof.Dr. Max Q.-H. Meng, Editor-in-Chief.
 - *2025.09*: 🏆🏆 “HaiChuang Future” Conference <u>Best Report Award</u> Winner, Awarded by the International Innovation Research Institute of Beĳing University of Aeronautics and Astronautics (Beihang University).
