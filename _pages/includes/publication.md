@@ -51,7 +51,7 @@
 [[doi](https://doi.org/10.1109/IROS60139.2025.11246371)]
 
 
-4. **Motion Planning for Robotics: A Review for Sampling-based Planners** 
+4. **Motion Planning for Robotics: A Review for Sampling-based Planners 🏆<a href="/files/BIROB_BestPaper.pdf" style="background:#ffecec; color:#a00000; padding:2px 6px; border-radius:6px; text-decoration:none;">Best Paper</a>**
 <br /><u>Liding Zhang</u>, Kuanqi Cai, Zewei Sun, Zhenshan Bing, Chaoqun Wang, Luis Figueredo, Sami Haddadin, Alois Knoll
 <br /> **BIRoB 2025**
 [[arXiv](https://arxiv.org/pdf/2410.19414)] 
