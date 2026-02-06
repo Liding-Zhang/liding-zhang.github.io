@@ -1,5 +1,9 @@
 # 💬 Community Services
 
+**Editor**:
+
+- 2026 Springe Nature - Journal of Intelligent & Robotic Systems [(Topic: Robotic Autonomy in Uncertain and Dynamic Environments.)](https://link.springer.com/collections/dhdjefjfjb)
+
 **Chair**: 
 
 - 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Teaser Session of <u>Robot Motion Planning IV</u>, ADNEC in Abu Dhabi, UAE.
