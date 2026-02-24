@@ -16,6 +16,7 @@
 - IEEE/ASME Transactions on Mechatronics (T-Mech),
 - IEEE Robotics and Automation Letters (RA-L),
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS),
+- International Journal of Intelligent Robotics and Applications,
 - Computers and Electronics in Agriculture,
 - Biomimetic Intelligence and Robotics,
 - Journal of the Franklin Institute,
