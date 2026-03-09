@@ -21,6 +21,7 @@
 - Computers and Electronics in Agriculture,
 - Biomimetic Intelligence and Robotics,
 - Journal of the Franklin Institute,
+- Annals of Mathematics and Artificial Intelligence,
 - Nature - Scientific Reports,
 - IEEE International Conference on Robotics and Automation (ICRA),
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),
