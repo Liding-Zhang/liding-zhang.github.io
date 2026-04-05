@@ -24,6 +24,7 @@
 - Annals of Mathematics and Artificial Intelligence,
 - Discover Artificial Intelligence,
 - Nature - Scientific Reports,
+- Evolutionary Intelligence,
 - IEEE International Conference on Robotics and Automation (ICRA),
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),
 - IEEE-RAS International Conference on Humanoid Robots (Humanoids),
