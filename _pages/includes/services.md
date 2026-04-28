@@ -12,12 +12,15 @@
 **Reviewer**:
 
 - IEEE Transactions on Robotics (T-RO),
+- IEEE Transactions on Cybernetics (TCYB),
 - IEEE Transactions on Automation Science and Engineering (T-ASE),
 - IEEE/ASME Transactions on Mechatronics (T-Mech),
 - IEEE Transactions on Systems, Man and Cybernetics: Systems (TSMCS),
 - IEEE Robotics and Automation Letters (RA-L),
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS),
+- IEEE Transactions on Cognitive and Developmental Systems (TCDS),
 - International Journal of Intelligent Robotics and Applications,
+- Autonomous Robots,
 - Computers and Electronics in Agriculture,
 - Biomimetic Intelligence and Robotics,
 - Journal of the Franklin Institute,
