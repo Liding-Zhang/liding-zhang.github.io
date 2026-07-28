@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Liding Zhang"
-description              : "Research Assistant  | <br>PhD in Robotics, TUM School of Computation, Information and Technology (CIT)"
+description              : "Scientific Researcher | <br>PhD in Robotics, TUM School of Computation, Information and Technology (CIT)"
 repository               : "github.com/liding-zhang"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Prof. Dr. <br>Liding Zhang"
+  name             : "Dr. rer. nat.<br>Liding Zhang"
   avatar           : "images/rectangle.jpg"
   bio              : "Techinical University of Munich (TUM)"
   location         : "Munich, Germany"
